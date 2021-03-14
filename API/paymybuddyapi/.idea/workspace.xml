@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7a8a2b-bdc3-417d-a286-e4145e7fd16f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/ReseauController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="102" selection-start-line="22" selection-start-column="102" selection-end-line="22" selection-end-column="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/CheckingDataBaseUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Utilisateur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/PorteMonnaie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/PorteMonnaieControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/PorteMonnaieController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/HistoriqueTransactionControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/UtilisateurControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/HistoriqueTransactions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HistoriqueTransactionsService</find>
+      <find>t</find>
+      <find>CheckingDataBaseUtils</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="version0.7.2" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/requestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/utilisateur.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/RequestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/utilisateurUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/CompareWithDataBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/CheckingDataBaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/PorteMonnaieUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/PasswordUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/CheckingDataBaseUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/GenericReponseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/ListFriends.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Reseau.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Utilisateur.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/HistoriqueTransactionsRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/UtilisateurRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/ReseauRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/ContactRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/PorteMonnaie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/PorteMonnaieRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Contact.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/ContactControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/UtilisateurControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/HistoriqueTransactionControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/UtilisateurService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/ReseauService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/HistoriqueTransactionsService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/ContactService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/ContactController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/HistoriqueTransactionsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/UtilisateurController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/PaymybuddyapiApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/ReseauControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/PorteMonnaieService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/ReseauController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/PorteMonnaieController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/HistoriqueTransactions.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/PorteMonnaieControllerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paymybuddyapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="paymybuddyapi" type="462c0819:PsiDirectoryNode" />
+              <item name="ControllerTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Romuald\Desktop\Exercice OCR\Developpement d'application java\Projet 6\PayMyBuddy\API\paymybuddyapi\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Junit">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.paymybuddyapi.PaymybuddyapiApplication" />
+      <module name="paymybuddyapi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paymybuddyapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.paymybuddyapi.ControllerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.paymybuddyapi.ControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.paymybuddyapi.ControllerTest.ContactControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit" type="JUnit" factoryName="JUnit">
+      <module name="paymybuddyapi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymybuddyapiApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="paymybuddyapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.paymybuddyapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.paymybuddyapi" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.paymybuddyapi.PaymybuddyapiApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.Junit" />
+      <item itemvalue="JUnit.ContactControllerTest" />
+      <item itemvalue="JUnit.PaymybuddyapiApplicationTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PaymybuddyapiApplicationTests" />
+        <item itemvalue="JUnit.ContactControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7a8a2b-bdc3-417d-a286-e4145e7fd16f" name="Default Changelist" comment="" />
+      <created>1611585005385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611585005385</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Configuration de l'API Pay My Buddy&#10;&#10;Versions 0.1">
+      <created>1611585980212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611585980212</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Versions 0.2&#10;&#10;Mise en place de la configuration MVC">
+      <created>1611667127705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611667127705</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Versions 0.2.1&#10;&#10;Mise en place de l'enregistrement de compte">
+      <created>1611684732706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611684732706</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Versions 0.2.1&#10;&#10;Mise en place de l'enregistrement de compte">
+      <created>1611691302364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611691302364</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Versions 0.4&#10;&#10;- Amélioration de l'enregistrement de compte&#10;- Ajout de la connexion &#10;- Ajout de l'ajout d'ami">
+      <created>1611931940654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611931940655</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Versions 0.5&#10;&#10;- Ajout de plusieurs endpoint dans : - PorteMonnaieController&#10;                                     - ReseauController&#10;&#10;- Création de HistoriqueTransactionController, Service, Repository&#10;&#10;- Ajout de commentaires pour faciliter la lecture du code">
+      <created>1612200693424</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612200693424</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Versions 0.5.5&#10;&#10;- Ajout de plusieurs endpoint dans : - PorteMonnaieController&#10;                                     - ReseauController&#10;&#10;- Création de HistoriqueTransactionController, Service, Repository&#10;&#10;- Ajout de commentaires pour faciliter la lecture du code">
+      <created>1612273216090</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612273216090</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Versions 0.6&#10;&#10;- Modification de quelques endpoint&#10;- Ajout de quelques endpoint&#10;- Correction de bug mineur">
+      <created>1613412617908</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613412617908</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Versions 0.7&#10;&#10;- Ajout dans la base de donnée la table contact&#10;- Ajout de la création d'un ticket dans contact dans l'API">
+      <created>1614259486902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614259486902</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Versions 0.7.1&#10;&#10;- Ajout dans la base de donnée la table contact&#10;- Ajout de la création d'un ticket dans contact dans l'API">
+      <created>1614264459477</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614264459477</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Versions 0.7.1&#10;&#10;- Ajout dans la base de donnée de la colonne bank account dans porte monnaie&#10;- Ajout des modifications en fonctions de la nouvelle colonne&#10;- Modification du type de variable de la colonne solde, int to double">
+      <created>1614856005891</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614856005891</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Versions 0.8&#10;&#10;- Ajout de la documentation swagger&#10;- Ajout de testes unitaires et d'intégration pour s'assurer de la bonne connectivité avec la base de données">
+      <created>1615546741233</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615546741233</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Junit - 2021.03.10 at 14h 58m 05s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.10 at 15h 08m 08s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.10 at 15h 08m 35s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.10 at 18h 31m 37s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.11 at 11h 22m 18s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.11 at 11h 50m 44s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.11 at 11h 57m 49s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.12 at 11h 31m 29s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.12 at 11h 49m 06s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit - 2021.03.12 at 11h 54m 56s.xml">
+      <configuration name="Junit" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24253732" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configuration de l'API Pay My Buddy&#10;&#10;Versions 0.1" />
+    <MESSAGE value="Versions 0.2&#10;&#10;Mise en place de la configuration MVC" />
+    <MESSAGE value="Versions 0.2.1&#10;&#10;Mise en place de l'enregistrement de compte" />
+    <MESSAGE value="Versions 0.4&#10;&#10;- Amélioration de l'enregistrement de compte&#10;- Ajout de la connexion &#10;- Ajout de l'ajout d'ami" />
+    <MESSAGE value="Versions 0.5&#10;&#10;- Ajout de plusieurs endpoint dans : - PorteMonnaieController&#10;                                     - ReseauController&#10;&#10;- Création de HistoriqueTransactionController, Service, Repository&#10;&#10;- Ajout de commentaires pour faciliter la lecture du code" />
+    <MESSAGE value="Versions 0.5.5&#10;&#10;- Ajout de plusieurs endpoint dans : - PorteMonnaieController&#10;                                     - ReseauController&#10;&#10;- Création de HistoriqueTransactionController, Service, Repository&#10;&#10;- Ajout de commentaires pour faciliter la lecture du code" />
+    <MESSAGE value="Versions 0.6&#10;&#10;- Modification de quelques endpoint&#10;- Ajout de quelques endpoint&#10;- Correction de bug mineur" />
+    <MESSAGE value="Versions 0.7&#10;&#10;- Ajout dans la base de donnée la table contact&#10;- Ajout de la création d'un ticket dans contact dans l'API" />
+    <MESSAGE value="Versions 0.7.1&#10;&#10;- Ajout dans la base de donnée la table contact&#10;- Ajout de la création d'un ticket dans contact dans l'API" />
+    <MESSAGE value="Versions 0.7.1&#10;&#10;- Ajout dans la base de donnée de la colonne bank account dans porte monnaie&#10;- Ajout des modifications en fonctions de la nouvelle colonne&#10;- Modification du type de variable de la colonne solde, int to double" />
+    <MESSAGE value="Versions 0.8&#10;&#10;- Ajout de la documentation swagger&#10;- Ajout de testes unitaires et d'intégration pour s'assurer de la bonne connectivité avec la base de données" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versions 0.8&#10;&#10;- Ajout de la documentation swagger&#10;- Ajout de testes unitaires et d'intégration pour s'assurer de la bonne connectivité avec la base de données" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/CompareWithDataBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/PorteMonnaieUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/ListFriends.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.8/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.3/spring-beans-5.3.3.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1209" selection-start-line="1209" selection-end-line="1209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="63" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Reseau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/PasswordUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/ContactControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/UtilisateurService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="51" column="51" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/HistoriqueTransactionsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/ContactService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/UtilisateurRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/HistoriqueTransactionsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/ContactRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/GenericReponseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/ContactController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/HistoriqueTransactionsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="44" column="64" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/PaymybuddyapiApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/PaymybuddyapiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding>
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/ReseauService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/ReseauControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/PorteMonnaieRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/repository/ReseauRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/service/PorteMonnaieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1408#1409#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/UtilisateurController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="88" column="71" lean-forward="true" selection-start-line="88" selection-start-column="71" selection-end-line="88" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2770#2771#0" expanded="true" />
+            <element signature="e#2829#2830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/utils/CheckingDataBaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/Utilisateur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/PorteMonnaie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/ReseauController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="102" selection-start-line="22" selection-start-column="102" selection-end-line="22" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/controller/PorteMonnaieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openclassrooms/paymybuddyapi/model/HistoriqueTransactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/HistoriqueTransactionControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/UtilisateurControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/openclassrooms/paymybuddyapi/ControllerTest/PorteMonnaieControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18962963" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
